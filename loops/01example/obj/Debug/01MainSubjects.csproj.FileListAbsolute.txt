@@ -1,0 +1,7 @@
+D:\C# Youtube\C#Ders1\01example\bin\Debug\01example.exe.config
+D:\C# Youtube\C#Ders1\01example\bin\Debug\01example.exe
+D:\C# Youtube\C#Ders1\01example\bin\Debug\01example.pdb
+D:\C# Youtube\C#Ders1\01example\obj\Debug\01MainSubjects.csproj.AssemblyReference.cache
+D:\C# Youtube\C#Ders1\01example\obj\Debug\01MainSubjects.csproj.CoreCompileInputs.cache
+D:\C# Youtube\C#Ders1\01example\obj\Debug\01example.exe
+D:\C# Youtube\C#Ders1\01example\obj\Debug\01example.pdb

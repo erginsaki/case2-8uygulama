@@ -1,0 +1,7 @@
+D:\C# Youtube\C#Ders1\03_MakingDecisions\bin\Debug\03_MakingDecisions.exe.config
+D:\C# Youtube\C#Ders1\03_MakingDecisions\bin\Debug\03_MakingDecisions.exe
+D:\C# Youtube\C#Ders1\03_MakingDecisions\bin\Debug\03_MakingDecisions.pdb
+D:\C# Youtube\C#Ders1\03_MakingDecisions\obj\Debug\03_MakingDecisions.csproj.AssemblyReference.cache
+D:\C# Youtube\C#Ders1\03_MakingDecisions\obj\Debug\03_MakingDecisions.csproj.CoreCompileInputs.cache
+D:\C# Youtube\C#Ders1\03_MakingDecisions\obj\Debug\03_MakingDecisions.exe
+D:\C# Youtube\C#Ders1\03_MakingDecisions\obj\Debug\03_MakingDecisions.pdb

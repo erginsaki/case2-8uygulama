@@ -1,0 +1,7 @@
+D:\C# Youtube\C#Ders1\08_methods\bin\Debug\08_methods.exe.config
+D:\C# Youtube\C#Ders1\08_methods\bin\Debug\08_methods.exe
+D:\C# Youtube\C#Ders1\08_methods\bin\Debug\08_methods.pdb
+D:\C# Youtube\C#Ders1\08_methods\obj\Debug\08_methods.csproj.AssemblyReference.cache
+D:\C# Youtube\C#Ders1\08_methods\obj\Debug\08_methods.csproj.CoreCompileInputs.cache
+D:\C# Youtube\C#Ders1\08_methods\obj\Debug\08_methods.exe
+D:\C# Youtube\C#Ders1\08_methods\obj\Debug\08_methods.pdb

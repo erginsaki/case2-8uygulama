@@ -1,0 +1,7 @@
+D:\C# Youtube\C#Ders1\07_foreach döngüsü\bin\Debug\07_foreach döngüsü.exe.config
+D:\C# Youtube\C#Ders1\07_foreach döngüsü\bin\Debug\07_foreach döngüsü.exe
+D:\C# Youtube\C#Ders1\07_foreach döngüsü\bin\Debug\07_foreach döngüsü.pdb
+D:\C# Youtube\C#Ders1\07_foreach döngüsü\obj\Debug\07_foreach döngüsü.csproj.AssemblyReference.cache
+D:\C# Youtube\C#Ders1\07_foreach döngüsü\obj\Debug\07_foreach döngüsü.csproj.CoreCompileInputs.cache
+D:\C# Youtube\C#Ders1\07_foreach döngüsü\obj\Debug\07_foreach döngüsü.exe
+D:\C# Youtube\C#Ders1\07_foreach döngüsü\obj\Debug\07_foreach döngüsü.pdb

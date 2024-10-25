@@ -1,0 +1,7 @@
+D:\C# Youtube\C#Ders1\loops\bin\Debug\loops.exe.config
+D:\C# Youtube\C#Ders1\loops\bin\Debug\loops.exe
+D:\C# Youtube\C#Ders1\loops\bin\Debug\loops.pdb
+D:\C# Youtube\C#Ders1\loops\obj\Debug\04_loops.csproj.AssemblyReference.cache
+D:\C# Youtube\C#Ders1\loops\obj\Debug\04_loops.csproj.CoreCompileInputs.cache
+D:\C# Youtube\C#Ders1\loops\obj\Debug\loops.exe
+D:\C# Youtube\C#Ders1\loops\obj\Debug\loops.pdb

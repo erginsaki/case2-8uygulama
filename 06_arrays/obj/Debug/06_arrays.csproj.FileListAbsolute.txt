@@ -1,0 +1,7 @@
+D:\C# Youtube\C#Ders1\06_arrays\bin\Debug\06_arrays.exe.config
+D:\C# Youtube\C#Ders1\06_arrays\bin\Debug\06_arrays.exe
+D:\C# Youtube\C#Ders1\06_arrays\bin\Debug\06_arrays.pdb
+D:\C# Youtube\C#Ders1\06_arrays\obj\Debug\06_arrays.csproj.AssemblyReference.cache
+D:\C# Youtube\C#Ders1\06_arrays\obj\Debug\06_arrays.csproj.CoreCompileInputs.cache
+D:\C# Youtube\C#Ders1\06_arrays\obj\Debug\06_arrays.exe
+D:\C# Youtube\C#Ders1\06_arrays\obj\Debug\06_arrays.pdb
